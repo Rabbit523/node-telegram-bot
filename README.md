@@ -1,1 +1,1 @@
-# node_telegram_bot
+# node-telegram-bot
